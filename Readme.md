@@ -1,5 +1,10 @@
 # Armor Plate System
 
+THIS IS A ARMOR PLATE SYSTEM MADE BY PARADISE SCRIPTS THAT I HAVE EDITED
+
+I DO NOT OWN THIS RESOURCE
+
+
 ## [Preview](https://youtu.be/34XZO9kEaJM)
 
 ## Prerequisites
